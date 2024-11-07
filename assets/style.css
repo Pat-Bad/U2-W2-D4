@@ -1,0 +1,27 @@
+#student{background-image:url(https://media.istockphoto.com/id/1438437093/it/foto/giovane-donna-adulta-in-scatti-in-studio-facendo-espressioni-facciali-e-usando-le-dita-e-le.jpg?s=612x612&w=0&k=20&c=tys-hUBXG9YxqvK2MRrhnzjHG2cJdx0HTaVOv9KMT4s=)
+;
+height:400px;
+background-size:cover;}
+
+.camera{
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    background-color:rgba(224, 154, 129, 0.856);
+
+}
+
+.rounded-icons p {
+    font-size:0.7rem;
+}
+
+ul li p{
+    font-size:0.8rem;
+}
+
+.icon{height:30px;
+width:30px;
+border-radius:50%;
+background-image:url(https://placedog.net/30/30)}
+
+#teacherName{font-size:0.6rem;}
